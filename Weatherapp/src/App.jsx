@@ -57,7 +57,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>React Weather App (Open-Meteo)</h1>
+      <h1>React Weather App </h1>
       <WeatherForm
         city={city}
         setCity={setCity}
